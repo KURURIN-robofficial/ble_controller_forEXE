@@ -1,7 +1,7 @@
 ble2.3内のble_robot_2.3.exeをダブルクリックもしくは、cmd/PowerShellでcd "ディレクトリ"と.\ble_robot_2.3と入力して使い始められます。
 詳しい内容などは、.\docs内の文章を読んでください。
 このソフトウェアのlicenseは、ROBO-ONE Educational Non-Commercial Software Licenseの最新版が常に適用されます。最も最新のbranchもしくはソフトのlicenseを確認してください。
-また、このソフトウェアの権利の一切は、@KURURIN-roboofficial及びこのリポジトリのメンバー（くるりんのメンバー）の間で発生しています。
+また、このソフトウェアの権利の一切は、@KURURIN-robofficial及びこのリポジトリのメンバー（くるりんのメンバー）の間で発生しています。
 なお、このソフトウェアを使用することによって発生した損害の一切を我々は負いかねます。
 
 更に、いかにソフトウェア作成者の意図として以下のものがあります。
